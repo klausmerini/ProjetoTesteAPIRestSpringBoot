@@ -9,9 +9,9 @@ Seguem as responses das requisições get, post, put e delete:
 <img src="https://github.com/klausmerini/TestNg_DAO_Banco_derbyDB/assets/109608171/989270e3-8384-43cc-bcea-c1ee05fc82cb" width="300px" /)
 </div>
 <div align="center">
-<img src="" width="300px" /)
+<img src="https://github.com/klausmerini/TestNg_DAO_Banco_derbyDB/assets/109608171/deccca88-789b-4120-a44e-530338735183" width="300px" /)
 </div>
 <div align="center">
-<img src="" width="300px" /)
+<img src="https://github.com/klausmerini/TestNg_DAO_Banco_derbyDB/assets/109608171/cbed1bc8-1282-403e-9d34-9171455e53c4" width="300px" /)
 </div>
 
