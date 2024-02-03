@@ -1,5 +1,5 @@
 # ProjetoTesteAPIRestSpringBoot
-O objetivo do projeto é fazer um teste simples da API Rest, de um projeto Spring Boot. O teste da API é feito pelo Postman. É validado o mapeamento das requests 
+O objetivo do projeto é fazer um teste simples da API Rest, de um projeto Spring Boot. O teste da API é feito pelo Postman. É validado o mapeamento das requests. 
 Seguem as responses das requisições get, post, put e delete:
 
 <div align="center">
